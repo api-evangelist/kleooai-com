@@ -1,4 +1,4 @@
-# kleooai-com
+# Kleo AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-kleooai-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kleooai.com/
+Kleo AI is an AI‑powered creative studio that lets users generate videos, images, voice‑overs, music and full narrated films by chatting with the system. It offers a free starter credit, transparent pricing per credit, and integrates with popular assistants like Claude, ChatGPT, Grok, Cursor and Claude Code. The platform runs on its own MCP server (mcp.kleooai.com) and provides tools for creators, including a marketplace for earnings.
+
+**Areas:** AI · Video · Images · Voice · Creative
+
+## Kleo AI on APIs.io
+
+Everything profiled for Kleo AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kleooai-com/](https://apis.io/providers/kleooai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Kleo AI API](https://apis.io/apis/kleooai-com/kleo-ai/) — Kleo AI provides an MCP server for video and image generation; documentation is at the Guides section.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kleo AI Authentication](https://apis.io/security/kleooai-com/kleooai-com-authentication/)
+- [Kleo AI Domain Security](https://apis.io/security/kleooai-com/kleooai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Kleo AI Plans Pricing](https://apis.io/plans/kleooai-com/kleooai-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kleooai.com/)
+- [Documentation](https://kleooai.com/guides/)
+- [Getting started](https://kleooai.com/integrations/claude/)
+- [Pricing](https://kleooai.com/pricing/)
+- [Terms of service](https://kleooai.com/terms.html)
+- [Privacy policy](https://kleooai.com/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 24.8** — emerging · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 60.0 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kleooai-com/](https://apis.io/providers/kleooai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kleo AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kleooai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
